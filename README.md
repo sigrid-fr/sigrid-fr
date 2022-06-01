@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sigrid-fr" alt="sigrid-fr" /></p>
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Sigrid</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">, I'm Sigrid</h1>
 <p align = "justify">I am passionate about learning new things, whether they are new cultures, programming languages, or musical instruments. I want to develop technological solutions that impact people's lives.</p>
 
 I'm currently working at [Accenture](https://www.accenture.com/br-pt)
