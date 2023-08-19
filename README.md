@@ -5,7 +5,7 @@
 
 I'm currently working at [Accenture](https://www.accenture.com/br-pt)
 
-I'm learning at the moment **Flutter, Java, DevOps Stuff**
+I'm learning at the moment **Quarkus Framework and Python**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sigrid-rodrigues/)](https://www.linkedin.com/in/sigrid-rodrigues/)
