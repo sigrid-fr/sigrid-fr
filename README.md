@@ -9,7 +9,6 @@ I'm learning at the moment **Quarkus Framework and Python**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sigrid-rodrigues/)](https://www.linkedin.com/in/sigrid-rodrigues/)
-[![Medium Badge](https://img.shields.io/badge/-si20.fr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@si20.fr)](https://medium.com/@si20.fr)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sigferodrigues@gmail.com)](mailto:sigferodrigues@gmail.com)
 
 ## 🚀💻 Technologies & Tools
