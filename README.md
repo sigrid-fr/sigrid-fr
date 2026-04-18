@@ -1,34 +1,23 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sigrid-fr" alt="sigrid-fr" /></p>
 
 <h1 align = "justify"> Hi, I'm Sigrid</h1>
-<p align = "justify">I am passionate about learning new things, whether they are new cultures, programming languages, or musical instruments. I want to develop technological solutions that impact people's lives.</p>
-
-I'm currently working at [Accenture](https://www.accenture.com/br-pt)
-
-I'm learning at the moment **Quarkus Framework and Python**
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sigrid-rodrigues/)](https://www.linkedin.com/in/sigrid-rodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sigferodrigues@gmail.com)](mailto:sigferodrigues@gmail.com)
 
-## 🚀💻 Technologies & Tools
+<p align = "justify">QA Engineer transitioning to DevSecOps, focused on application security and secure CI/CD pipelines.</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-## ⚡ GitHub Stats
+## 🔐 Focus Areas
+- DevSecOps  
+- Application Security (AppSec)
+- Cloud Security (in progress)  
+- Secure Software Development Lifecycle (SSDLC)  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sigrid-fr&show_icons=true&theme=gotham" alt="sigrid-fr" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigrid-fr&show_icons=true&theme=gotham" alt="sigrid-fr" />
+## ⚙️ Tech Stack
+- CI/CD: GitHub Actions  
+- Security: OWASP ZAP, SonarQube, Trivy
+- Languages: JavaScript, Python   
+- Testing:
+  - Cypress (E2E)
+  - Karate Framework (API testing, BDD) 
