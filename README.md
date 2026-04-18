@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sigrid-rodrigues/)](https://www.linkedin.com/in/sigrid-rodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sigferodrigues@gmail.com)](mailto:sigferodrigues@gmail.com)
 
-<p align = "justify">QA Engineer transitioning to DevSecOps, focused on application security and secure CI/CD pipelines.</p>
+<p align = "justify">QA Engineer transitioning to DevSecOps, with experience in backend development, test automation, and a strong interest in application security.</p>
 
 
 ## 🔐 Focus Areas
