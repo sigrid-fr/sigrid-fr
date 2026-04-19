@@ -22,7 +22,7 @@ I’m driven by the challenge of bridging quality, security, and development, co
 - **Testing:** Cypress (E2E), Karate Framework (API testing, BDD), Selenium, Cucumber
 - **Security:** DevSecOps, Application Security, Cloud Security, Secure Coding Practices (in progress)
 
-## ⚙️ Education
+## 🎓 Education
 
 ### Bachelor's degree in Information Systems
 
