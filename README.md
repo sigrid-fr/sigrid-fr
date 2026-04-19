@@ -18,7 +18,7 @@ I’m driven by the challenge of bridging quality, security, and development, co
 - **Containers:** Docker
 - **Monitoring:** Grafana, Rally Software, BitBucket
 - **Cloud:** Azure, GCP
-- **Database:** SQL, MongoDB, MySql
+- **Database:** SQL, MongoDB, MySql, Oracle
 - **Testing:** Cypress (E2E), Karate Framework (API testing, BDD), Selenium, Cucumber
 - **Security:** DevSecOps, Application Security, Cloud Security, Secure Coding Practices (in progress)
 
