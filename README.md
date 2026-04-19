@@ -24,6 +24,6 @@ I’m driven by the challenge of bridging quality, security, and development, co
 
 ## ⚙️ Education
 
-### Bachelor's degree in information systems
+### Bachelor's degree in Information Systems
 
 _Instituto Federal de Educação Ciência e Tecnologia do Maranhão_
