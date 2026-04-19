@@ -13,7 +13,7 @@ I’m driven by the challenge of bridging quality, security, and development, co
 
 ## 🚀 Skills, Tools & Focus Areas
 
-- **Languages:** Python, Bash, JavaScript
+- **Languages:** Python, Bash, JavaScript, Java
 - **CI/CD:** Jenkins, GitLab
 - **Containers:** Docker
 - **Monitoring:** Grafana, Rally Software, BitBucket
