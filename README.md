@@ -86,13 +86,11 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 ## 🗂️ Repository Structure
 
 ```
-cybersecurity-portfolio/
-│
 ├── README.md                          ← You are here
 │
 ├── hackers-do-bem/
 │   ├── README.md                      ← Program overview
-│   ├── fundamental/                   ← ✅ Completed level (12 modules)
+│   ├── fundamentals/                   ← ✅ Completed level (12 modules)
 │   └── devsecops-specialization/      ← 🔄 In progress
 │
 ├── lift-scholarship/
