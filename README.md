@@ -112,10 +112,8 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 ├── certifications/                    ← 📋 Planned & in progress
 │   └── README.md
 │
-├── labs-and-practice/                 ← TryHackMe, CTFs, extra labs
-│   └── README.md
-│
-└── resources.md                       ← Curated tools, links & references
+└── labs-and-practice/                 ← TryHackMe, CTFs, extra labs
+│   └── README.md                     ← 
 ```
 
 ---
