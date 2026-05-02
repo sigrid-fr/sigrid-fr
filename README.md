@@ -186,3 +186,5 @@ As I explore the engineering / DevSecOps path (directly connected to my QA autom
 - [ ] Complete a CTF and write up the solution
 
 ---
+
+> *"Security is not a product, but a process."* — Bruce Schneier  
