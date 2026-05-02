@@ -57,7 +57,7 @@ Brazil's largest national cybersecurity training program, with live synchronous 
 | Fundamental | Threats, secure architecture, crypto, IR, cloud, GRC | 96h | ✅ Completed |
 | Especializado – DevSecOps | Secure SDLC, GitLab CI/CD, containers, DevSecOps | 80h | 🔄 In Progress |
 
-→ [See detailed notes & labs](./hackers-do-bem/)
+→ [See detailed notes & labs](https://github.com/sigrid-fr/hackers-do-bem)
 
 ---
 
