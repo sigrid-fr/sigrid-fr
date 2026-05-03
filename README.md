@@ -103,7 +103,7 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 │
 ├── google-cybersecurity-certificate/  ← ✅ Completed
 │   ├── README.md
-│   └── notes/
+│   └── reflections.md
 │
 ├── va-cybersecurity-mentorship-soc/
 │   ├── README.md
