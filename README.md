@@ -90,7 +90,7 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 │
 ├── hackers-do-bem/
 │   ├── README.md                      ← Program overview
-│   ├── fundamentals/                   ← ✅ Completed level (12 modules)
+│   ├── fundamentals/                  ← ✅ Completed level (12 modules)
 │   └── devsecops-specialization/      ← 🔄 In progress
 │
 ├── lift-scholarship/
@@ -101,7 +101,7 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 │   ├── README.md
 │   └── notes/
 │
-├── google-cybersecurity-certificate/ ← ✅ Completed
+├── google-cybersecurity-certificate/  ← ✅ Completed
 │   ├── README.md
 │   └── notes/
 │
@@ -113,7 +113,8 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 │   └── README.md
 │
 └── labs-and-practice/                 ← TryHackMe, CTFs, extra labs
-│   └── README.md                     ← 
+│   └── README.md
+│
 ```
 
 ---
