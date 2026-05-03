@@ -23,7 +23,7 @@ My QA background isn't a gap in my cybersecurity story. It's an advantage:
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Bachelor's degree in Information Systems
 
@@ -31,7 +31,7 @@ _Instituto Federal de Educação Ciência e Tecnologia do Maranhão_
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 I'm currently building toward roles in:
 
@@ -43,7 +43,7 @@ I'm not locked into one path yet — I'm deliberately exploring both the defensi
 
 ---
 
-## 📚 Training & Courses
+## Training & Courses
 
 ### 🟢 Hackers do Bem — Brazil's National Cybersecurity Program
 *SENAI / ESR / RNP — Government-funded, 100% free*
@@ -70,7 +70,7 @@ A comprehensive 8-course program covering the foundations of cybersecurity, with
 
 **Why it matters for my transition:** This certificate gave me the language and workflow of a SOC analyst — from alert triage to writing incident reports — building directly on my QA documentation skills.
 
-→ [See notes & projects](./google-cybersecurity-certificate/)
+→ [See notes & projects](https://github.com/sigrid-fr/google-cybersecurity-certificate)
 
 ### 🎓 VA Cybersecurity Mentorship Program — SOC Track
 *Veterans Affairs / VA Cybersecurity Mentorship*
@@ -79,11 +79,11 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 
 **Key skills:** SIEM tools, alert triage, log analysis, incident response workflow, threat hunting basics, SOC analyst day-to-day.
 
-→ [See notes](./va-cybersecurity-mentorship-soc/)
+→ [See notes](https://github.com/sigrid-fr/va-cybersecurity-mentorship-soc/)
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 ├── README.md                          ← You are here
@@ -119,7 +119,7 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
@@ -134,7 +134,7 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 
 ---
 
-## 📋 Certifications Roadmap
+## Certifications Roadmap
 
 | Certification | Focus | Status |
 |--------------|-------|--------|
@@ -147,7 +147,7 @@ A structured mentorship program with a focus on **SOC (Security Operations Cente
 
 ---
 
-## 🔵 SOC Skills I'm Building
+## SOC Skills I'm Building
 
 As I explore the Blue Team / SOC path, these are the specific skills I'm actively developing — grounded by the Google Cybersecurity Certificate I've already completed:
 
@@ -161,7 +161,7 @@ As I explore the Blue Team / SOC path, these are the specific skills I'm activel
 
 ---
 
-## 🔐 DevSecOps Skills I'm Building
+## DevSecOps Skills I'm Building
 
 As I explore the engineering / DevSecOps path (directly connected to my QA automation background):
 
